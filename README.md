@@ -9,9 +9,7 @@ flutter_grocery_app_ui project has "main.dart" as Entry Point.
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
 - [Drop me your message](https://twitter.com/khandla20)
 
-
-![Flutter-Grocery-App](https://user-images.githubusercontent.com/48312656/116001645-dfeb7580-a5a1-11eb-96bd-60d040808d8b.gif)
-
+![Flutter-Grocery-App](https://user-images.githubusercontent.com/48312656/116001819-ff36d280-a5a2-11eb-8e0d-bfe96d31ec9a.gif)
 
 
 = = = To Generate Android release steps = = =
